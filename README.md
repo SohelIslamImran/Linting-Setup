@@ -1,5 +1,3 @@
-<h1 align="center">Linting Setup</h1>
-
 ## Table of Contents
 
 - [Editor Setup](#editor-setup)
@@ -15,8 +13,6 @@
 - [Install Dev Dependencies](#install-dev-dependencies)
 
 - [Create Linting Configuration file manually](#create-linting-configuration-file-manually)
-
-- [Contact](#contact)
 
 ## Editor Setup
 
